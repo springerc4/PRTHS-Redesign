@@ -1,0 +1,11 @@
+.subtext {
+    padding-left: 40%;
+}
+.headline {
+    padding-left: 30%;
+}
+.additional-info-keystone {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
